@@ -1,0 +1,59 @@
+
+/* comeco da gaveta*/
+
+.gaveta__secundario {
+
+    
+    align-items: center;
+    padding: 20px;
+    background: black;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+/* final da gaveta*/
+
+
+
+
+/* comeco img*/
+
+.secundario__imagem {
+
+    padding: 2em;
+    margin: 2em;
+    width: 80%;
+    justify-content: center;
+}
+
+
+/* final img*/
+
+
+
+
+
+/* comeco do texto*/
+.descricao__texto {
+    color: var(--cinza-secundario);
+    text-align: center;
+    font-size: 32px;
+    font-family: var(--font-principal);
+    padding: 28px;
+    
+    
+}
+
+/* final do texto */
+
+
+
+
+/* primeiro botao*/
+.secundario__botao {
+    display: inline-block;
+    margin-top: 1em;
+    margin-left: 20px;
+  
+}
+/* final do botao*/

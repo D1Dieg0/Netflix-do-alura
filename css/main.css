@@ -1,0 +1,66 @@
+
+/* comeco do main */
+
+main {
+
+    align-items: center;
+    
+    background: black;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.container__descricao {
+
+    margin: 2em;
+
+}
+
+
+/* final do main*/
+
+
+
+
+
+
+
+/*comeco das iamgens*/
+
+.secundario__imagem {
+
+    padding: 2em;
+    margin: 2em;
+    width: 70%;
+    justify-content: center;
+}
+
+/* das imagens*/
+
+
+
+
+
+
+
+/* comeco dos textos*/
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 0.1em;
+    padding: 20px;
+    color: var(--branco-principal);
+    text-align: center;
+}
+
+
+.descricao__texto {
+    color: var(--cinza-secundario);
+    text-align: center;
+    font-size: 22px;
+    font-family: var(--font-principal);
+}
+
+/* final dos textos*/
